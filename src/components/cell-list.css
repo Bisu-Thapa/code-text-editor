@@ -1,0 +1,12 @@
+.cell-list {
+  margin: 0 25px 50vh;
+}
+.react-draggable-transparent-selection .cell-list {
+  margin-bottom: 100vh;
+}
+.title {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
